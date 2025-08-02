@@ -64,7 +64,7 @@ var countries = new Bloodhound({
   queryTokenizer: Bloodhound.tokenizers.whitespace,
   // url points to a json file that contains an array of country names, see
   // https://github.com/twitter/typeahead.js/blob/gh-pages/data/countries.json
-  prefetch: '../assets/plugins/typeahead.js-master/countries.json'
+  prefetch: 'assets/plugins/typeahead.js-master/countries.json'
 });
 
 // passing in `null` for the `options` arguments will result in the default
@@ -80,7 +80,7 @@ var nflTeams = new Bloodhound({
   datumTokenizer: Bloodhound.tokenizers.obj.whitespace('team'),
   queryTokenizer: Bloodhound.tokenizers.whitespace,
   identify: function(obj) { return obj.team; },
-  prefetch: '../assets/plugins/typeahead.js-master/nfl.json'
+  prefetch: 'assets/plugins/typeahead.js-master/nfl.json'
 });
 
 function nflTeamsWithDefaults(q, sync) {
@@ -108,13 +108,13 @@ $('#default-suggestions .typeahead').typeahead({
 var nbaTeams = new Bloodhound({
   datumTokenizer: Bloodhound.tokenizers.obj.whitespace('team'),
   queryTokenizer: Bloodhound.tokenizers.whitespace,
-  prefetch: '../assets/plugins/typeahead.js-master/nba.json'
+  prefetch: 'assets/plugins/typeahead.js-master/nba.json'
 });
 
 var nhlTeams = new Bloodhound({
   datumTokenizer: Bloodhound.tokenizers.obj.whitespace('team'),
   queryTokenizer: Bloodhound.tokenizers.whitespace,
-  prefetch: '../assets/plugins/typeahead.js-master/nhl.json'
+  prefetch: 'assets/plugins/typeahead.js-master/nhl.json'
 });
 
 $('#multiple-datasets .typeahead').typeahead({

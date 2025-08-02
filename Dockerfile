@@ -10,4 +10,5 @@ COPY . .
 EXPOSE 10000
 
 # Comando para iniciar el servidor PHP embebido
-CMD ["php", "-S", "0.0.0.0:10000", "-t", "main"]
+CMD ["php", "-S", "0.0.0.0:10000", "-t", "."]
+

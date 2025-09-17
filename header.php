@@ -38,6 +38,9 @@
         .duo{
             color: #7030A0
         }
+        .important{
+            color: #0036c9ff;
+        }
     </style>
 </head>
 

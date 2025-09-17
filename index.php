@@ -383,6 +383,61 @@
                                                     </a>
                                                 </td>
                                             </tr>
+                                            <tr>
+                                                <td>ROCK: RIO - LA UNIVERSIDAD</td>
+                                                <td>
+                                                    <a href="rio_la_universidad.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>ROCK: HOMBRES G - DEVUÉLVEME A MI CHICA</td>
+                                                <td>
+                                                    <a href="hombresg_devuelveme_a_mi_chica.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>ROCK: GIT - LA CALLE ES SU LUGAR</td>
+                                                <td>
+                                                    <a href="git_la_calle_es_su_lugar.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>ROCK: ARENA HASH - Y ES QUE SUCEDE ASI</td>
+                                                <td>
+                                                    <a href="arena_hash_y_es_que_sucede_asi.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>ROCK: ZEN - QUÉDATE</td>
+                                                <td>
+                                                    <a href="zen_quedate.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
 
 		                                </tbody>
 		                            </table>

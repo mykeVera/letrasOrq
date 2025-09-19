@@ -395,7 +395,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>ROCK: HOMBRES G - DEVUÉLVEME A MI CHICA</td>
+                                                <td>ROCK: HOMBRES G - DEVUELVEME A MI CHICA</td>
                                                 <td>
                                                     <a href="hombresg_devuelveme_a_mi_chica.php">
                                                         <button type="button" class="btn btn-sm btn-danger">
@@ -417,9 +417,9 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>ROCK: ARENA HASH - Y ES QUE SUCEDE ASI</td>
+                                                <td>ROCK: ZEN - QUEDATE</td>
                                                 <td>
-                                                    <a href="arena_hash_y_es_que_sucede_asi.php">
+                                                    <a href="zen_quedate.php">
                                                         <button type="button" class="btn btn-sm btn-danger">
                                                             <i class="fas fa-paperclip">
                                                             </i> VER
@@ -428,9 +428,42 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>ROCK: ZEN - QUÉDATE</td>
+                                                <td>ROCK: ENANITOS VERDES - YO TE VI EN UN TREN</td>
                                                 <td>
-                                                    <a href="zen_quedate.php">
+                                                    <a href="enanitos_te_vi_en_un_tren.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>ROCK: ENANITOS VERDES - LAMENTO BOLIVIANO</td>
+                                                <td>
+                                                    <a href="enanitos_lamento_boliviano.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>ROCK: LOS ABUELOS DE LA NADA - MIL HORAS</td>
+                                                <td>
+                                                    <a href="abuelos_mil_horas.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>ROCK: AMEN - LA CHATA</td>
+                                                <td>
+                                                    <a href="amen_la_chata.php">
                                                         <button type="button" class="btn btn-sm btn-danger">
                                                             <i class="fas fa-paperclip">
                                                             </i> VER

@@ -22,7 +22,7 @@
 <h2>
 Estar en la universidad es una cosa de locos<br>
 Estar en la universidad es una fiesta de monos<br>
-<span class="important">Doce años en la medicina, terminar limpiando una oficina</span><br>
+<span class="important">Doce años en la medicina, términar limpiando una oficina</span><br>
 </h2>
 
 <br>
@@ -36,8 +36,10 @@ Estar en la universidad es una fiesta de monos<br>
 <br>
 
 <h2>
-No logras encontrar trabajo, sirve muy poco ser profesional
-Las cosas me han salido mal, me raya esta universidad
+No logras encontrar trabajo, <br>
+sirve muy poco ser profesional <br>
+Las cosas me han salido mal, <br>
+me raya esta universidad<br>
 </h2>
 
 <br>
@@ -48,6 +50,12 @@ Cosa de locos, con tanto esfuerzo ingresaste<br>
 <span class="coro">Oh,oh, oh-oh, oh, oh</span><br>
 Cosa de locos y ahora ya te reventaste<br>
 </h2>
+
+<br>
+
+<h1>
+<span>♪</span> 
+</h1>
 
 <br>
 
@@ -70,8 +78,10 @@ son como el pan de cada día</span><br>
 <br>
 
 <h2>
-No logras encontrar trabajo, sirve muy poco ser profesional
-Las cosas me han salido mal, me raya esta universidad
+No logras encontrar trabajo, <br>
+sirve muy poco ser profesional <br>
+Las cosas me han salido mal, <br>
+me raya esta universidad<br>
 </h2>
 
 <br>
@@ -86,11 +96,11 @@ Cosa de locos y ahora ya te reventaste<br>
 <br>
 
 <h2>
-<span class="coro">Oh,oh, oh-oh, oh, oh</span><br>
-Cosa de locos, Exámenes llenos de trucos, las chelas, chicles y los puchos<br>
-<span class="coro">Oh,oh, oh-oh, oh, oh</span><br>
-Cosa de locos, Ingresas luego del colegio<br>
-Las huelgas si que te hacen viejo<br>
+<span class="important">Cosa de locos,</span><br>
+Exámenes llenos de trucos, las chelas, chicles y dos puchos<br>
+<span class="important">Cosa de locos,</span><br>
+Ingresas luego del colegio<br>
+Las huelgas Si que te hacen viejo<br>
 </h2>
 
 <br>

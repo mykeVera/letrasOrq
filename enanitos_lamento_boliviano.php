@@ -7,6 +7,15 @@
 
 <hr>
 
+<h2>
+<span class="important">Antes:</span> <br>
+<span class="nota">
+“Esta no puede faltar… la han cantado en fiestas, en la ducha, en la guitarra con los amigos. ¡Vamos a ver si aquí la cantan más fuerte que nosotros!”<br>
+</span>
+</h2>
+
+<hr>
+
 <br>
 
 <h2>
@@ -102,6 +111,19 @@ Te amaré por siempre<br>
 Nena, no te peines en la cama<br>
 Que los viajantes se van a atrasar<br>
 </h2>
+
+<br>
+
+<hr>
+
+<h2>
+<span class="important">Al terminar:</span> <br>
+<span class="nota">
+“Temazo de los Enanitos Verdes… y ahora seguimos con otro clásico que seguro también los hace cantar a todo pulmón”<br>
+</span>
+</h2>
+
+<hr>
 
 <br>
 

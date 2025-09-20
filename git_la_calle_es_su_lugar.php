@@ -7,6 +7,15 @@
 
 <hr>
 
+<h2>
+<span class="important">Antes:</span> <br>
+<span class="nota">
+“Seguimos con un clásico argentino, ochentero total. ¡A ver quiénes aquí son de la vieja escuela del rock!”<br>
+</span>
+</h2>
+
+<hr>
+
 <br>
 
 <h2>
@@ -90,6 +99,19 @@ Puede ser feliz igual<br>
 Ana, Ana, Ana<br>
 Puede ser feliz igual<br>
 </h2>
+
+<br>
+
+<hr>
+
+<h2>
+<span class="important">Al terminar:</span> <br>
+<span class="nota">
+“¡Eso! Se siente la energía, ¿cómo vamos hasta ahora?”<br>
+</span>
+</h2>
+
+<hr>
 
 <br>
 

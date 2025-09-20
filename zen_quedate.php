@@ -7,6 +7,15 @@
 
 <hr>
 
+<h2>
+<span class="important">Antes:</span> <br>
+<span class="nota">
+“Ahora nos ponemos un poquito más sentimentales, pero sin dejar el rock… con una banda peruana de lujo: Zen.”<br>
+</span>
+</h2>
+
+<hr>
+
 <br>
 
 <h2>
@@ -93,6 +102,19 @@ Si me voy<br>
 Si no estás<br>
 Nunca más...<br>
 </h2>
+
+<br>
+
+<hr>
+
+<h2>
+<span class="important">Al terminar:</span> <br>
+<span class="nota">
+“¡Qué bonito cantan, carajo! Gracias por la energía.”<br>
+</span>
+</h2>
+
+<hr>
 
 <br>
 

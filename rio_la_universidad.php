@@ -7,11 +7,16 @@
 
 <hr>
 
-<br>
-
 <h2>
-
+<span class="important">Antes:</span> <br>
+<span class="nota">
+“Qué mejor forma de celebrar aquí que con esta canción… ¡seguro más de uno se siente identificado!”<br>
+</span>
 </h2>
+
+<hr>
+
+<br>
 
 <h2>
 ¡Ya sabes, si esta ves no ingresas
@@ -132,9 +137,19 @@ Cosas de locos, cosas de locos.<br>
 Cosa de locos.<br>
 </h2>
 
+<br>
 
+<hr>
 
+<h2>
+<span class="important">Al terminar:</span> <br>
+<span class="nota">
+“¡Eso fue Río, puro rock peruano! ¿Quieren más?”<br>
+</span>
+</h2>
 
+<hr>
 
+<br>
 
 <?php include 'footer.php';?>

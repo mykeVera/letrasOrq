@@ -7,6 +7,17 @@
 
 <hr>
 
+<h2>
+<span class="important">Antes:</span> <br>
+<span class="nota">
+“Esta cancion vá con orgullo peruano, porque el rock hecho en casa también tiene corazón. ¡Con ustedes: Una del grupo Amén!”<br>
+</span>
+</h2>
+
+<hr>
+
+<hr>
+
 <br>
 
 <h2>
@@ -51,16 +62,6 @@ La verdad no sé si a vivir o morir<br>
 
 <br>
 
-<h2>
-Pero solo yo quiero<br>
-Que seas mía otra vez<br>
-Y aunque llore mi corazón<br>
-Nunca te olvidaré<br>
-No, no<br>
-</h2>
-
-<br>
-
 <h2 class="coro">
 Pero solo yo quiero<br>
 Que seas mía otra vez<br>
@@ -68,6 +69,19 @@ Y aunque llore mi corazón<br>
 Nunca te olvidaré, no<br>
 <span class="bis">(bis)</span><br>
 </h2>
+
+<br>
+
+<hr>
+
+<h2>
+<span class="important">Al terminar:</span> <br>
+<span class="nota">
+“¡Eso fue Amén, un clásico que demuestra que en el Perú también se hace rock de verdad!”<br>
+</span>
+</h2>
+
+<hr>
 
 <br>
 

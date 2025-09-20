@@ -7,6 +7,15 @@
 
 <hr>
 
+<h2>
+<span class="important">Antes:</span> <br>
+<span class="nota">
+“Ahora nos vamos a España… ¿dónde están los que alguna vez les han quitado la chica? ¡Esta va para ustedes!”<br>
+</span>
+</h2>
+
+<hr>
+
 <br>
 
 <h2>
@@ -78,5 +87,17 @@ O te retorcerás entre polvos picapica<br>
 
 <br>
 
+<hr>
+
+<h2>
+<span class="important">Al terminar:</span> <br>
+<span class="nota">
+“¡Muy bien! Se la saben de memoria eh, ¡Que nivel!”<br>
+</span>
+</h2>
+
+<hr>
+
+<br>
 
 <?php include 'footer.php';?>

@@ -7,6 +7,15 @@
 
 <hr>
 
+<h2>
+<span class="important">Antes:</span> <br>
+<span class="nota">
+“¿Quién ha esperado mil horas por alguien? … ¿y bajo la lluvia? ¡Esta es para ustedes!”<br>
+</span>
+</h2>
+
+<hr>
+
 <br>
 
 <h2>
@@ -103,6 +112,19 @@ Estás mojado, ya no te quiero", ah-ah-ah<br>
         </i> Repetir todo el coro.
     </button>
 </a>
+
+<br>
+
+<hr>
+
+<h2>
+<span class="important">Al terminar:</span> <br>
+<span class="nota">
+“¡Qué nostalgia y qué recuerdos! Esto es el poder del rock en español.”<br>
+</span>
+</h2>
+
+<hr>
 
 <br>
 

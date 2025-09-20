@@ -7,6 +7,15 @@
 
 <hr>
 
+<h2>
+<span class="important">Antes:</span> <br>
+<span class="nota">
+“Ahora, a ver si la cantan todos: Los Enanitos Verdes… ¡himno total!”<br>
+</span>
+</h2>
+
+<hr>
+
 <br>
 
 <h2>
@@ -131,6 +140,19 @@ Yo te vi en un tren<br>
 Yo, yo te vi en un tren<br>
 Yo te vi en un tren<br>
 </h2>
+
+<br>
+
+<hr>
+
+<h2>
+<span class="important">Al terminar:</span> <br>
+<span class="nota">
+“¿Cuántos de acá se han enamorado en un micro, en un tren o en la combi? … ¡Ah yaaaa, pensé que solo era yo!”<br>
+</span>
+</h2>
+
+<hr>
 
 <br>
 

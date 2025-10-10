@@ -471,6 +471,17 @@
                                                     </a>
                                                 </td>
                                             </tr>
+                                            <tr>
+                                                <td>ROCK: AIRBAG - VIVAMOS EL MOMENTO</td>
+                                                <td>
+                                                    <a href="airbag_vivamos_el_momento.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
 
 		                                </tbody>
 		                            </table>

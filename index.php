@@ -471,6 +471,28 @@
                                                     </a>
                                                 </td>
                                             </tr>
+                                            <tr>
+                                                <td>CUMBIA: HERMANOS SILVA - MIX CALIENTITOS</td>
+                                                <td>
+                                                    <a href="hermanos_silva_mix_calientitos.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>CUMBIA: DONNY YAYPEN - MIX YAYPEN</td>
+                                                <td>
+                                                    <a href="donny_yaypen_mix_yaypen.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
 
 		                                </tbody>
 		                            </table>

@@ -515,6 +515,28 @@
                                                     </a>
                                                 </td>
                                             </tr>
+                                            <tr>
+                                                <td>BALADA GRUPERA: JOAN SEBASTIAN - SECRETO DE AMOR</td>
+                                                <td>
+                                                    <a href="joan_sebastian_secreto_de_amor.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>SALSA: OSCAR ARRIAGA - MIX TRUBITO A GRUPO NICHE</td>
+                                                <td>
+                                                    <a href="oscar_arriaga_mix_trubito_a_grupo_niche.php">
+                                                        <button type="button" class="btn btn-sm btn-danger">
+                                                            <i class="fas fa-paperclip">
+                                                            </i> VER
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
 		                                </tbody>
 		                            </table>
 		                        </div>
